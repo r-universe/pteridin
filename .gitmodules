@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MIDASwrappeR"]
-	path = MIDASwrappeR
-	url = https://github.com/pteridin/midaswrapper
 [submodule "flexlsx"]
 	path = flexlsx
 	url = https://github.com/pteridin/flexlsx
